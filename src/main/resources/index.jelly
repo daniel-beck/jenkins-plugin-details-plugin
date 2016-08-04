@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin is a demo how to scrape the Jenkins wiki and display plugin wiki pages on another domain.
+</div>
